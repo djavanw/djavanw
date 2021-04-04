@@ -7,4 +7,4 @@ Highly competent professional with experience in leading, managing, planning, fa
 Gaining an additional skillset by learning the technologies of a Full Stack Web Developer and then applying this knowledge in future employment opportunities.
 
 ## Experience with
-![image c programming](./assets/images/c_programming.jpg)
+![icon of c programming](./assets/images/c_programming.jpg), ![icon of javascript](./assets/images/js.png)
